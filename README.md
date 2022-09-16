@@ -1,7 +1,7 @@
 # NLW eSports Explorer
 
+![preview](./.github/preview.png)
 projeto criado durante o evento Next Level Week (NLW) da Rocketseat
-
 
 [Clique aqui para acessar](https://ciarlini20.github.io/NLW-eSports-Explorer/)
 
